@@ -5,13 +5,16 @@ This repo contains an application that shows shopping list by using JSon Operati
 ## Getting started
 Install JSON Server
 
--- npm install -g json-server
+```
+# npm install -g json-server
+```
 Create a db.json file with some data
  
 Start JSON Server
 
--- json-server --watch db.json
-
+```
+# json-server --watch db.json
+```
 
 ![image](https://user-images.githubusercontent.com/5441882/108602346-7f2d9a00-73b2-11eb-83d3-4e4af28379b6.png)
  
